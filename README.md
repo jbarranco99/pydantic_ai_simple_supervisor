@@ -29,6 +29,8 @@ User: "Whats the employee number of FAANG companies?"
 ```plaintext
 User: "Whats the combined number of FAANG employees?"
 
+##
+
 🔗 References
 LangGraph Supervisor: https://github.com/langchain-ai/langgraph-supervisor-py
 Pydantic AI: https://ai.pydantic.dev
