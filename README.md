@@ -15,24 +15,21 @@ This project is a **replica of LangGraph's Supervisor basic example**, but imple
 
 ## Example Usage
 
-### ** 1 User Query (Math Task)**
 ```plaintext
+### ** 1 User Query (Math Task)**
 User: "What is 5 * 3 + 2?"
-## 🔍 Example Usage
 
 ### **2 User Query (Research Task)**
-```plaintext
 User: "Whats the employee number of FAANG companies?"
-## 🔍 Example Usage
 
 ### ** 3 User Query (Combined Task)**
-```plaintext
 User: "Whats the combined number of FAANG employees?"
----
+```
 
-🔗 References
-LangGraph Supervisor: https://github.com/langchain-ai/langgraph-supervisor-py
-Pydantic AI: https://ai.pydantic.dev
+## 🔗 References
+
+**LangGraph Supervisor:** https://github.com/langchain-ai/langgraph-supervisor-py  
+**Pydantic AI:** https://ai.pydantic.dev
 
 
 
