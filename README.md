@@ -28,8 +28,7 @@ User: "Whats the employee number of FAANG companies?"
 ### ** 3 User Query (Combined Task)**
 ```plaintext
 User: "Whats the combined number of FAANG employees?"
-
-##
+---
 
 🔗 References
 LangGraph Supervisor: https://github.com/langchain-ai/langgraph-supervisor-py
